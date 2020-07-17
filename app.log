@@ -1,0 +1,187 @@
+2020-05-28 11:03:45,161:root:INFO:Staring main...
+2020-05-28 11:03:45,174:root:INFO:Category:WOMEN/Manish Arora X Koovs
+2020-05-28 11:03:46,081:root:INFO:Category:WOMEN/Manish Arora X Koovs
+2020-05-28 11:03:46,737:root:INFO:Category:WOMEN/Washed Denims
+2020-05-28 11:03:47,600:root:INFO:Category:WOMEN/Vintage Varsity
+2020-05-28 11:03:53,031:root:INFO:Length of URL: 67
+2020-05-28 11:04:07,348:root:INFO:Category:WOMEN/Roller Disco
+2020-05-28 11:04:12,237:root:INFO:Length of URL: 63
+2020-05-28 11:04:24,639:root:INFO:Category:WOMEN/Party Footwear
+2020-05-28 11:04:28,979:root:INFO:Length of URL: 52
+2020-05-28 11:04:30,550:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="412" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:30,653:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="413" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:31,774:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="403" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:32,004:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="404" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:32,032:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="420" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:32,470:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="421" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:34,366:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="420" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:34,396:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="421" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:38,378:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="420" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:38,490:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="421" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:38,562:root:INFO:Category:WOMEN/Party Footwear
+2020-05-28 11:04:42,859:root:INFO:Length of URL: 52
+2020-05-28 11:04:45,146:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="412" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:45,634:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="413" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:45,810:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="420" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:45,867:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="421" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:47,997:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="403" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:48,326:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="420" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:48,381:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="404" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:48,623:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="421" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:49,095:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="403" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:49,189:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="404" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:49,696:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="420" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:49,704:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="421" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:04:51,781:root:INFO:Category:WOMEN/Embellished Denims
+2020-05-28 11:04:52,743:root:INFO:Category:WOMEN/One Shoulder Edit
+2020-05-28 11:04:56,916:root:INFO:Length of URL: 53
+2020-05-28 11:05:01,357:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="411" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:05:01,441:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="412" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:05:01,537:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="411" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:05:02,076:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="412" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:05:02,468:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="414" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:05:02,503:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="412" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:05:02,793:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="413" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:05:02,820:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="415" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:05:03,041:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="411" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:05:03,066:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="412" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:05:05,880:root:INFO:Category:WOMEN/Light Layering
+2020-05-28 11:05:09,999:root:INFO:Length of URL: 32
+2020-05-28 11:05:11,754:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="411" id="tab-1">Delivery &amp; Return</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-05-28 11:05:11,860:root:ERROR:ERROR:fetchProductDetails::<div class="tabs ltr-spcng" data-reactid="412" id="tab-3">Seller Details</div>
+Traceback (most recent call last):
+  File ".\main\main.py", line 23, in fetchProductDetails
+    productDetails[key.contents[0]] = soup.find(
+AttributeError: 'NoneType' object has no attribute 'text'
